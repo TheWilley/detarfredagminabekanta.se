@@ -4,5 +4,8 @@ A website that tells you if it's Friday or not. The website is inspired by the [
 ## Usage
 Go to the [official link](https://detarfredagminabekanta.se) or clone / download the project and open the `index.html` file.
 
+## Credits
+The images used on this website was made by Zaxvert. You can find them [on his site](https://grodanboll.azurewebsites.net/).
+
 ## License
 [MIT](https://github.com/TheWilley/detarfredagminabekanta.se/blob/master/LICENSE)
